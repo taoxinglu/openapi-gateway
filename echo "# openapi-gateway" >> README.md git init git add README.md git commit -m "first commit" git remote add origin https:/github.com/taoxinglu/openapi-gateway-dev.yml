@@ -3,6 +3,6 @@ spring:
     host: 192.168.98.120
     port: 15672
 # spring:
- # rabbitmq:
-  #  host: rabbitmq.qfjava.cn
- #   port: 8800
+#   rabbitmq:
+#     host: rabbitmq.qfjava.cn
+#     port: 8800
